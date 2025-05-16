@@ -1,4 +1,4 @@
-# 🧠 Predicting Problematic Internet Use in Adolescents
+# 🧠 Efficient Ensemble-Based Predictive System for Child Mental Health Assessment   
 
 This repository presents my solution to the [Child Mind Institute - Problematic Internet Use](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) Kaggle competition. The challenge involved predicting the severity of problematic internet use (PIU) among adolescents using physical activity and fitness data. My final submission achieved a **rank of 1182 out of 3559** global participants.
 
